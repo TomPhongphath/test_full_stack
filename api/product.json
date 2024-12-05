@@ -1,0 +1,184 @@
+[
+    {
+      "sku": "PD-BS-001",
+      "name": "Basic Product 1",
+      "image": "https://i.pinimg.com/1200x/ed/1b/cd/ed1bcdacbb9c51a746084f1842b7548f.jpg",
+      "price": 100,
+      "description": "รายละเอียดสินค้า Basic 1",
+      "size": "10x10 cm",
+      "weight": "200 g"
+    },
+    {
+      "sku": "PD-BS-002",
+      "name": "Basic Product 2",
+      "image": "https://i.pinimg.com/1200x/37/12/4f/37124f7b4528dc1c19da46888f0ff898.jpg",
+      "price": 120,
+      "description": "รายละเอียดสินค้า Basic 2",
+      "size": "12x12 cm",
+      "weight": "250 g"
+    },
+    {
+      "sku": "PD-BS-003",
+      "name": "Basic Product 3",
+      "image": "https://i.pinimg.com/1200x/12/36/70/123670691346a0eddd11dfecbd5b6f6d.jpg",
+      "price": 150,
+      "description": "รายละเอียดสินค้า Basic 3",
+      "size": "14x14 cm",
+      "weight": "300 g"
+    },
+    {
+      "sku": "PD-BS-004",
+      "name": "Basic Product 4",
+      "image": "https://i.pinimg.com/1200x/6c/3c/1f/6c3c1fd79bd02f3989c19e898643928c.jpg",
+      "price": 130,
+      "description": "รายละเอียดสินค้า Basic 4",
+      "size": "11x11 cm",
+      "weight": "220 g"
+    },
+    {
+      "sku": "PD-BS-005",
+      "name": "Basic Product 5",
+      "image": "https://i.pinimg.com/1200x/e3/a7/7c/e3a77cf86406d227d9f89de9f2faf8a8.jpg",
+      "price": 140,
+      "description": "รายละเอียดสินค้า Basic 5",
+      "size": "13x13 cm",
+      "weight": "270 g"
+    },
+    {
+      "sku": "PD-BS-006",
+      "name": "Basic Product 6",
+      "image": "https://i.pinimg.com/1200x/0f/91/1e/0f911e54c902da1ab20cf8c4f86d1c14.jpg",
+      "price": 160,
+      "description": "รายละเอียดสินค้า Basic 6",
+      "size": "15x15 cm",
+      "weight": "320 g"
+    },
+    {
+      "sku": "PD-BS-007",
+      "name": "Basic Product 7",
+      "image": "https://i.pinimg.com/1200x/8b/c4/00/8bc400e9fb888d27c1b2b090d2ea0362.jpg",
+      "price": 170,
+      "description": "รายละเอียดสินค้า Basic 7",
+      "size": "16x16 cm",
+      "weight": "350 g"
+    },
+    {
+      "sku": "PD-BS-008",
+      "name": "Basic Product 8",
+      "image": "https://i.pinimg.com/1200x/ea/50/71/ea5071cd7b27038031135dfe90c6064c.jpg",
+      "price": 180,
+      "description": "รายละเอียดสินค้า Basic 8",
+      "size": "17x17 cm",
+      "weight": "370 g"
+    },
+    {
+      "sku": "PD-BS-009",
+      "name": "Basic Product 9",
+      "image": "https://i.pinimg.com/1200x/d5/6d/28/d56d2853760703619c25b97ccd0ac6fa.jpg",
+      "price": 190,
+      "description": "รายละเอียดสินค้า Basic 9",
+      "size": "18x18 cm",
+      "weight": "400 g"
+    },
+    {
+      "sku": "PD-BS-010",
+      "name": "Basic Product 10",
+      "image": "https://i.pinimg.com/1200x/e6/83/b5/e683b55487f4c18d73df453624460eed.jpg",
+      "price": 200,
+      "description": "รายละเอียดสินค้า Basic 10",
+      "size": "19x19 cm",
+      "weight": "420 g"
+    },
+    
+    {
+      "sku": "PD-PR-001",
+      "name": "Premium Product 1",
+      "image": "https://i.pinimg.com/1200x/13/fe/b9/13feb9c459b851a85d429d5a7266583d.jpg",
+      "price": 500,
+      "description": "รายละเอียดสินค้า Premium 1",
+      "size": "30x30 cm",
+      "weight": "800 g"
+    },
+    {
+      "sku": "PD-PR-002",
+      "name": "Premium Product 2",
+      "image": "https://i.pinimg.com/1200x/2f/fa/f2/2ffaf2c0273484d51fe8fb0b15d9f11f.jpg",
+      "price": 550,
+      "description": "รายละเอียดสินค้า Premium 2",
+      "size": "32x32 cm",
+      "weight": "850 g"
+    },
+    {
+      "sku": "PD-PR-003",
+      "name": "Premium Product 3",
+      "image": "https://i.pinimg.com/1200x/85/98/94/8598944870f25999f89ac41efa5b7bda.jpg",
+      "price": 600,
+      "description": "รายละเอียดสินค้า Premium 3",
+      "size": "34x34 cm",
+      "weight": "900 g"
+    },
+    {
+      "sku": "PD-PR-004",
+      "name": "Premium Product 4",
+      "image": "https://i.pinimg.com/1200x/2c/f5/14/2cf514863a9fdc9a295e38bc86e43beb.jpg",
+      "price": 650,
+      "description": "รายละเอียดสินค้า Premium 4",
+      "size": "35x35 cm",
+      "weight": "950 g"
+    },
+    {
+      "sku": "PD-PR-005",
+      "name": "Premium Product 5",
+      "image": "https://i.pinimg.com/1200x/67/d0/33/67d0334925e7308d179ec0adfd8ed91b.jpg",
+      "price": 700,
+      "description": "รายละเอียดสินค้า Premium 5",
+      "size": "36x36 cm",
+      "weight": "1000 g"
+    },
+    {
+      "sku": "PD-PR-006",
+      "name": "Premium Product 6",
+      "image": "https://i.pinimg.com/1200x/24/52/2a/24522a92e5bda37ba3720e7de857aa9a.jpg",
+      "price": 750,
+      "description": "รายละเอียดสินค้า Premium 6",
+      "size": "37x37 cm",
+      "weight": "1050 g"
+    },
+    {
+      "sku": "PD-PR-007",
+      "name": "Premium Product 7",
+      "image": "https://i.pinimg.com/1200x/bf/e0/a9/bfe0a905dfe488a771f32fbb40e52d42.jpg",
+      "price": 800,
+      "description": "รายละเอียดสินค้า Premium 7",
+      "size": "38x38 cm",
+      "weight": "1100 g"
+    },
+    {
+      "sku": "PD-PR-008",
+      "name": "Premium Product 8",
+      "image": "https://i.pinimg.com/1200x/63/42/58/6342587fde3527481be862302a8d0dcf.jpg",
+      "price": 850,
+      "description": "รายละเอียดสินค้า Premium 8",
+      "size": "39x39 cm",
+      "weight": "1150 g"
+    },
+    {
+      "sku": "PD-PR-009",
+      "name": "Premium Product 9",
+      "image": "https://i.pinimg.com/1200x/71/7c/c1/717cc1431271dd5b22c9345ef5091d49.jpg",
+      "price": 900,
+      "description": "รายละเอียดสินค้า Premium 9",
+      "size": "40x40 cm",
+      "weight": "1200 g"
+    },
+    {
+      "sku": "PD-PR-010",
+      "name": "Premium Product 10",
+      "image": "https://i.pinimg.com/1200x/dd/4b/12/dd4b127883b2ffd8b48a61d9a59aa8ee.jpg",
+      "price": 950,
+      "description": "รายละเอียดสินค้า Premium 10",
+      "size": "41x41 cm",
+      "weight": "1250 g"
+    }
+  ]
+  
